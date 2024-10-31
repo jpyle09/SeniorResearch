@@ -1,2 +1,6 @@
-# SeniorResearch
+## SeniorResearch
  
+
+# Comparative Analysis of Predictive Modeling in Predicting NBA Points Scored Using Historical Data
+
+This research proposal aims to perform a comparative analysis of predictive modeling techniques for forecasting NBA players' points scored based on historical data. The objective is to evaluate various machine learning algorithms like decision trees, artificial neural networks (ANN), and multiple regression, using Python to determine which method gets the most accurate predictions. Predictive analytics in sports has become increasingly prevalent. In specific, in optimizing team strategies, enhancing player performance, and even in sports betting. By utilizing historical NBA player performance data, this proposed research will train and test multiple models to assess their predictive accuracy. The project will employ standard performance metrics like Mean Squared Error (MSE) and R-squared to evaluate model performance. The research aims to advance the application of machine learning in sports analytics and provide a framework for future sports predictive modeling. Expected outcomes include a comprehensive analysis of the models' effectiveness and a presentation of targeted possible findings.
